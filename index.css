@@ -1,0 +1,105 @@
+body{
+    background-color:  hsl(230, 100%, 99%);
+}
+
+.heading{
+    text-align: center;
+    padding-top: 20px;
+    color: hsl(227, 35%, 25%);
+}
+.foo{
+    text-align: center;
+    color: hsl(225, 20%, 60%);
+}
+.main{
+    margin: auto;
+    height: 250px;
+    width: 50%;
+    padding: 40px;
+    background-color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    
+}
+.baz{
+    bottom: 0;
+  right: 0;
+  font-size: large;
+}
+.bar{
+   position: relative;
+   left: 400px;
+   font-weight: 800;
+   font-size: 40px;
+   color: hsl(226, 49%, 31%)
+}
+.month{
+    font-size: 25px;
+    font-weight: 500;
+    color: hsl(225, 20%, 60%);
+    left: 40px;
+  
+    
+}
+.trial{
+    position: relative;
+    left: 500px;
+    top: 150px;
+    background-color: hsl(227, 35%, 25%);
+    color: white;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 5px 0px 5px 20px;
+
+}
+
+.unlimited,.email,.data{
+    padding: 5px;
+    position: relative;
+    top: 50px;
+}
+.slider{
+    width: 100%;
+    bottom: 125px;
+    position: relative;
+    cursor: pointer;
+}
+.Monthly{
+    top: 37px;
+    left: 120px;
+    position: relative;
+    color: hsl(225, 20%, 60%);
+}
+.Yearly{
+    top: 3px;
+    left: 300px;
+    position: relative;
+    color: hsl(225, 20%, 60%);
+    
+}
+.discount{
+    top: 20px;
+    left: 420px;
+    position: relative; 
+    background-color: hsl(14, 92%, 95%);
+    color: hsl(15, 100%, 70%);
+    width: 100px;
+    padding-left: 10px;
+    border: 1px solid hsl(14, 92%, 95%);
+    border-radius: 30%;
+}
+
+.icon{
+    width: 30px;
+    left: 300px;
+    position: relative;
+
+}
+.icon:hover{
+    width: 40px;
+}
+.dark-theme{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+
