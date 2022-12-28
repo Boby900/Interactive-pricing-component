@@ -12,6 +12,8 @@ how to use svg and how to use the range slider and storing the value of that via
 
 ## Continued developement.
 I had learned how to use the range sliders but still I am having issues with that so I will be brushing up on that further in the future.
+## Webpage url.
+[webpage](https://boby900.github.io/Interactive-pricing-component/)
 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/111265239/209762011-71ca1f00-a395-486c-8d22-53829fe4a38a.png)
